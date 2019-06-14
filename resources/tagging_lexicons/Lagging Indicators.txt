@@ -1,0 +1,72 @@
+market share        
+sales
+inventory turn
+inventory turns
+sale
+net sale
+net sales
+turnover
+assets
+sales numbers
+sales volume
+market share
+orders          
+order
+ordered
+order size
+order frequency
+revenue
+revenues
+margin
+margins
+earning
+earnings
+income
+ebit                
+eps                 
+inventory
+inventories
+cash
+cashflow
+cash flow
+money
+interest
+income
+tax
+taxes
+profit after tax
+pat                 
+profit before tax
+pbt                
+earnings per share
+return on investment
+roi                 
+return on capital
+return investment
+return capital
+return on equity
+return equity
+equity             
+profit
+profits
+profitability
+operating profit
+operating result
+operating expense
+cost
+costs
+operating cost
+operating income
+operating leverage
+operating loss
+net loss
+loss
+expense
+expenses
+volume
+ebitda              
+dividend
+gdp                 
+export              
+exports
+performance         

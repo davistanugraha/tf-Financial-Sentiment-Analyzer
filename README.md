@@ -8,6 +8,7 @@ of a sentence. Hence, "financial tagging" would capture the financial context of
 
 2 methods:
 
+
   1.Financial Tagging +  Sentence2Vector embedding + classical downstream classifiers
   
   
