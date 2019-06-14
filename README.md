@@ -25,7 +25,7 @@ Use case:
   There are 3 main parts(each notebook represents one part):
   
     1. Tagging sentences with financial lexicons + Training word2vec and sentence2vec embedding:
-          1.0 Parse through real financial earnings call using a pdfparser(built this inhouse, can be found under ml_models,p.s:     yes i know its not an ml_model should have created a file called services but oh well im lazy)
+          1.0 Parse through real financial earnings call using a pdfparser(built this inhouse, can be found under ml_models,p.s:     yes i know its not an ml_model should have created a file called services, will improve file management later)
           1.1 break down each call to sentences and replace words that belong to a lexicon to its title(all the lexicons can be found under """resources/tagging_lexicons""", function to do this is embedded in ml_models/apriori.py within the Apriori class) 
           1.2 Feed them to a word2vec model for training(unsupervised),also built a class sent2vec(can be found in ml_models)
           that have preprocessing functions to "clean" sentences, train word2vec models, and form sentence2vectors by aggregating and averaging these word vectors
