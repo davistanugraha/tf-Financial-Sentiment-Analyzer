@@ -4,7 +4,10 @@ Purpose:
 This project's purpose is to aid in quantifying financial qualitative data.We are building a sentence classifier that classify sentences of financial context to their respective sentiment (positive,
 negative,neutral). Realized that there a lot of publicly available sentiment analyzers, but they are trained on general sentences, and would often misclassify these subject matter sentences.
 For example, liability might not be bad in a financial context as they are actually indicators in the financial world. We are building a tool which is able to consider both the semantic and subject matter properties
-of a sentence. Hence, "financial tagging" would capture the financial context of the sentence while the "vector embedding" would aid in capturing the "semantic" properties 
+of a sentence. Hence, "financial tagging" would capture the financial context of the sentence while the "vector embedding" would aid in capturing the "semantic" properties. 
+
+Use case:
+  When building this project, the ideal use case in mind was for quantitative traders to be able to quickly process huge amounts of qualitative signals that the market presents and convert it to numerical data that would be used as an input to their existing quant models in a short period of time. This will let them to respond quickly to market sigals, giving them an edge.
 
 
 2 methods:
