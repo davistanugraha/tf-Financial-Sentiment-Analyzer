@@ -39,4 +39,4 @@ Use case:
         2.2 construct a 1 layer neural network with 5 different size convolution filters, one drop out, one full layer.
         clear illustraion of netwrok architecture could be found here : https://www.researchgate.net/figure/Illustration-of-our-CNN-model-for-sentiment-analysis-Given-a-sequence-of-d-dimension_fig3_321259272
         
-sidenote: a lot of the functions you see in the notebook does not come from open source libraries, you can find all the functions, classes and their explanation wthin ml_models if you wish to do so.              
+sidenote:you will observe that some of the classes/functions that play primary roles are built in-house and they do not come from open source libraries, you can find all the functions, classes and their documentation wthin ml_models if you wish to do so.              
