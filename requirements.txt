@@ -83,7 +83,7 @@ python-magic==0.4.15
 pytz==2018.9
 pyzmq==18.0.1
 requests==2.21.0
-rsa==4.0
+rsa==4.1
 ruamel-yaml==0.15.46
 s3transfer==0.2.0
 scikit-learn==0.20.3
